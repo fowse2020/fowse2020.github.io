@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Finally, we are...</title>
+  
+  <subtitle>fowse的自留地</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fowse2020.github.io/"/>
+  <updated>2019-12-23T07:18:11.960Z</updated>
+  <id>https://fowse2020.github.io/</id>
+  
+  <author>
+    <name>fowse</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>just test for Hexo</title>
+    <link href="https://fowse2020.github.io/2019/12/23/just-test-for-Hexo/"/>
+    <id>https://fowse2020.github.io/2019/12/23/just-test-for-Hexo/</id>
+    <published>2019-12-23T07:17:26.000Z</published>
+    <updated>2019-12-23T07:18:11.960Z</updated>
+    
+    <content type="html"><![CDATA[<p>很久没折腾博客了。重新拾起来。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;很久没折腾博客了。重新拾起来。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="test" scheme="https://fowse2020.github.io/tags/test/"/>
+    
+  </entry>
+  
+</feed>
